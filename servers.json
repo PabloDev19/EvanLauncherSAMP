@@ -1,0 +1,14 @@
+{
+  "servidores": [
+    {
+      "ip_host":"s1.dixel-rp.com",
+      "port":"7777" ,
+      "hostname": "[ES] Paradise RP | Android y PC",
+      "nombre": "Paradise RP",
+      "link_web": "https://www.servidor1.com",
+      "link_imagen": "https://www.servidor1.com/logo.png",
+      "password": "passwordServidor1",
+      "developer_name": "Developer1"
+    }
+  ]
+}
